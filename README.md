@@ -6,3 +6,6 @@
 ## projetoDesenvolvimentoDaTabelaHash/versao01/
 * Desenvolvimento da tabela hash 
 * Não finalizado
+
+### autor: Fernando Chiareli Ferreira 
+### código: 832110
